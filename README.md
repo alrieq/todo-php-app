@@ -44,4 +44,5 @@ CREATE TABLE tasks(
 ## Running the app
 Once the database has been installed and the table has been created, simply run the project and visit the given URL.
 
-
+![](./Screenshot_1.png)
+![](./Screenshot_2.png)
